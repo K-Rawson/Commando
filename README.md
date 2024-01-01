@@ -10,7 +10,13 @@ Commando allows you to visualize and interact with much more data in many more d
 
 ## Development
 
-To develop Commando, you need to have Unity 2023.2.3f1 or later installed on your computer. You also need to have access to our custom console, which is a proprietary asset that we developed in-house. Then, follow these steps:
+To develop Commando, you need to have Unity 2023.2.3f1 or later installed on your computer.
+
+### Requirements
+- Windows 10/11
+- Unity 2023.2.3f1
+
+ Then, follow these steps:
 
 - Clone this repository to your local machine.
 - Open the project folder in Unity Hub.
